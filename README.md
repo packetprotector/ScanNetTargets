@@ -17,7 +17,8 @@ This script takes in a list of websites and exports Netscraper scans using the D
 
     -h          Print this help message.
 
-Examples
-  ScanNetTargets.ps1 -i target_urls.txt -o C:\OUTPUT_DIRECTORY
+Examples:
 
-  ScanNetTargets.ps1 -i target_urls.txt -o C:\OUTPUT_DIRECTORY -s 3
+ScanNetTargets.ps1 -i target_urls.txt -o C:\OUTPUT_DIRECTORY
+
+ScanNetTargets.ps1 -i target_urls.txt -o C:\OUTPUT_DIRECTORY -s 3
