@@ -2,7 +2,8 @@
 Version: 1.0
 
 PowerShell Script to scan mutliple targets in Netsparker. Built off a script from Netsparker.com with additions for CSV reports and limiting concurrent scans.
-  Orignal script: https://www.netsparker.com/blog/docs-and-faqs/scan-multiple-websites-command-line/
+ 
+Orignal script: https://www.netsparker.com/blog/docs-and-faqs/scan-multiple-websites-command-line/
 
 This script takes in a list of websites and exports Netscraper scans using the Default Scan Policy. Reports are exported to specified output directory using the default "Detailed Scan Report" and "Vulnerabilities List (CSV)" report template options.
 
